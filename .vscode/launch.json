@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_catalog",
+            "name": "Catalog-App",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "flutter_catalog (profile mode)",
+            "name": "Catalog-App (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "flutter_catalog (release mode)",
+            "name": "Catalog-App (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
